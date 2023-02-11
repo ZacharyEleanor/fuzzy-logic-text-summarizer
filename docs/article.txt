@@ -1,0 +1,20 @@
+Funding the Evolution of Blockchains
+
+Blockchains are digital organisms. As organisms evolve through changes in their DNA, blockchain protocols evolve through changes in their code. And like biological organisms, the most adaptive blockchains will be the ones that survive and thrive.
+
+So what makes for a strong evolutionary process in a blockchain? Forking is an important mechanism that is becoming more common. Forks can speed evolution by allowing many different approaches to be tried in parallel. However, I feel there is another which is barely talked about: the economic incentives to contribute to a blockchain’s core protocols. These incentives are lacking in almost every major blockchain today and are an opportunity to supercharge their development.
+
+The lack of incentives to work on core protocols is reflected in the large number of people working on Etheruem tokens vs. the small number working on Ethereum itself. Launching a new token has made many millionaires in the last 8 months, whether on paper or liquid. Meanwhile, if you contribute to the core Ethereum codebase at best you 1) own a bunch of ETH personally and the price of them goes up a bit or 2) need to join the Ethereum Foundation and get paid some amount that wouldn’t match the economics of a successful token launch. As a result, Ethereum is starting to suffer from a tragedy of the commons problem: while lots of people own ETH and would benefit from Ethereum improving, the economic reward for any single individual improving it is low.
+
+So it’s not surprising these massively valuable blockchains don’t have many people working on them. Despite being worth over $30bn and $65bn, there are only 15 meaningful contributors to Ethereum and Bitcoin respectively, and the rate of contribution isn’t going up much with their rise in popularity.
+
+This is a shame. Improvements to these protocols would create massive amounts of value. For example, let’s say someone or a group of people implemented an Ethereum scaling solution like sharding or Plasma. Each of these improvements would likely increase the value of Ethereum by over 10%, creating roughly $3 billion in value at current Ether prices.
+
+So how do we incent people to work on the common good of the core protocols?
+
+Private funding was one of the first methods used when MIT funded Bitcoin core developers Gavin Andresen, Wladimir van der Laan, and Cory Fields in 2015. Some projects like Blockstack have funds of private individuals and VCs to invest in projects built on top of the protocol, but this is different because it is not focused on improving the core protocol directly.
+
+Private funding can be a good first step because it is fast, decisive, and lightweight. However, the economics probably don’t work at some point. If a protocol upgrade like sharding in Ethereum could create $3bn in value, private funding is already unable to scale to be able to offer anything close to the value that could be created.
+
+Public crowdfunding hasn’t been tried much in the blockchain space or nothing has worked enough to come to mind. A theoretical example of this would be the Ethereum Foundation announcing an open crowdfund for a feature bounty.
+
